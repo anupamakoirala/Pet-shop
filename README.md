@@ -27,3 +27,6 @@ Etherum DApp using truffle IDE:
            
        
      
+Error encountered:
+-"truffle cannot destructure property 'body' of 'undefined' as it is undefined" due to bug in newer version of truffle 
+error sloved by degrading truffle version to 5.1.10
